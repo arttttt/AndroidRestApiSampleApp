@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestApiSample</string>
+    <string name="first_name_text">First name</string>
+    <string name="last_name_text">Last name</string>
+    <string name="email_text">Email</string>
+    <string name="add_user_button_text">Add</string>
+    <string name="update_user_button_text">Update</string>
+    <string name="empty_field_error">this field can\'t be empty</string>
+    <string name="wrong_email_error">wrong email format</string>
+</resources>
